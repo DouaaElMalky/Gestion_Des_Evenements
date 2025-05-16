@@ -1,0 +1,50 @@
+{
+  "name": "gestion_evenements",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "@tailwindcss/forms": "^0.5.9",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.4.3",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.7.9",
+    "chart.js": "^4.4.7",
+    "cra-template": "1.2.0",
+    "postcss": "^8.4.49",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^18.3.1",
+    "react-router": "^7.1.1",
+    "react-router-dom": "^7.1.1",
+    "react-scripts": "^5.0.1",
+    "recharts": "^2.15.0",
+    "tailwindcss": "^3.4.17",
+    "web-vitals": "^3.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

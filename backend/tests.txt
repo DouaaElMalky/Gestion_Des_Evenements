@@ -1,0 +1,17 @@
+Ajouter un organisateur >>>>>>>>>
+Connexion Organisateur >>>>>>>>> 
+Connexion Participant >>>>>>>>>>>
+Obtenir tous les organisateurs >>>>>>>>>>
+Obtenir un organisateur par ID >>>>>>>>
+Update Organisateur xxxxxxxxxxxxxx
+update doesnt hash organisateur et participant xxxxxxxxxxxx
+Supprimer un organisateur >>>>>>>>>>>
+Ajouter un participant >>>>>>>>>>>>>
+Obtenir tous les participants >>>>>>>>>>>>
+Obtenir un participant par ID >>>>>>>>>>>>
+Supprimer un participant >>>>>>>>>>>>
+Modifier participant works but returns old one >x>x>x>x>x>
+Créer un événement >>>>>>>>
+Obtenir tous les événements >>>>>>>>>>>
+Obtenir un événement par son ID >>>>>>>>>>>
+Supprimer un événement >>>>>>>>>>
